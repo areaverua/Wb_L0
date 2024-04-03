@@ -1,6 +1,6 @@
 Внутри директории проекта запустить:
-make build
-make run
+make build, 
+make run.
 
 
 Методы API:
